@@ -5,5 +5,3 @@ https://jonathanlloyd.dev
 
 
 https://blog.thisisjonathan.com
-
-<a rel="me" href="https://mastodon.social/@jonathanlloyd">Mastodon</a>
